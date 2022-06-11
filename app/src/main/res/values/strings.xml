@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Counlearn</string>
+    <string name="textHomeGameMenu">This is game menu, you can choose continent wiht there country</string>
+    <string name="whole_world">Whole world</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="europe">Europe</string>
+    <string name="asia">Asia</string>
+    <string name="africa">Africa</string>
+    <string name="northAmerica">North America</string>
+    <string name="southAmerica">South America</string>
+    <string name="Australia">Australia</string>
+    <string name="TextListTop">List of top player</string>
+    <string name="text_search">Search</string>
+    <string name="searchInfo">Search information</string>
+    <string name="info">Information</string>
+    <string name="textTotalScore">Total score</string>
+    <string name="bestGame">The best game</string>
+</resources>

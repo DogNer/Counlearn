@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bg_search.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bg_search_btn.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/card_view_style.xml" value="0.1" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/image_sircle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_home_game_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_profile_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_search_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_top_list_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/item_search.xml" value="0.25" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/item_toplist.xml" value="0.33" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
