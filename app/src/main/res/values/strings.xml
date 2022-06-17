@@ -16,4 +16,13 @@
     <string name="info">Information</string>
     <string name="textTotalScore">Total score</string>
     <string name="bestGame">The best game</string>
+    <string name="yourrang">Your rang</string>
+    <string name="text_sett">Settings</string>
+    <string name="helpandsupp">Help Support</string>
+    <string name="inviteFriends">Invite Friends</string>
+    <string name="textlogout">Logout</string>
+    <string name="text_email">Email address</string>
+    <string name="text_pass">Password</string>
+    <string name="text_next">Next</string>
+    <string name="text_name">Name</string>
 </resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322535215442",
+    "firebase_url": "https://countrylearn-23b8c-default-rtdb.firebaseio.com",
+    "project_id": "countrylearn-23b8c",
+    "storage_bucket": "countrylearn-23b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322535215442:android:2655bfb130076aca45ea8b",
+        "android_client_info": {
+          "package_name": "com.example.counlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322535215442-0h7aaeudf52cti4jkacd96is8012ef34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.counlearn",
+            "certificate_hash": "8355ab1b120b6e3283a30cef31c925b33a4b330d"
+          }
+        },
+        {
+          "client_id": "322535215442-u121n7d8btgepu505bn1bijo4shft6rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZT-rRCRG6eeSkMKNpUimsPUcsep_t3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322535215442-u121n7d8btgepu505bn1bijo4shft6rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
