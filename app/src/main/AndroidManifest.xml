@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Counlearn">
         <activity
+            android:name=".Continents.WholeWorldActivity"
+            android:exported="false" />
+        <activity
             android:name=".FirstScreen.Register_activity"
             android:exported="false" />
         <activity
@@ -23,7 +26,7 @@
         </activity>
         <activity
             android:name=".FirstScreen.LoginActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />

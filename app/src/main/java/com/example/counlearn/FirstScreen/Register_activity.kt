@@ -48,13 +48,13 @@ class Register_activity : AppCompatActivity() {
             val passwordText = password.text.toString()
             val nameText = name.text.toString()
             
-            if(emailText.toString().isEmpty()) {
+            if(emailText.isEmpty()) {
                 Toast.makeText(this, "Please enter your email", Toast.LENGTH_SHORT).show()
             }
-            else if (passwordText.toString().isEmpty()){
+            else if (passwordText.isEmpty()){
                 Toast.makeText(this, "Please enter your password", Toast.LENGTH_SHORT).show()
             }
-            else if (nameText.toString().isEmpty()){
+            else if (nameText.isEmpty()){
                 Toast.makeText(this, "Please enter your name", Toast.LENGTH_SHORT).show()
             }
             else {
@@ -81,7 +81,7 @@ class Register_activity : AppCompatActivity() {
         mDbRef = FirebaseDatabase.getInstance().getReference()
 
         if (uid != null) {
-            mDbRef.child("Users").child(uid).setValue(com.example.counlearn.Modals.User(name, emailText, passwordText, uid))
+            mDbRef.child("Users").child(uid).setValue(com.example.counlearn.Modals.User(name, emailText, passwordText, uid, "nothing"))
         }
     }
 

@@ -25,4 +25,6 @@
     <string name="text_pass">Password</string>
     <string name="text_next">Next</string>
     <string name="text_name">Name</string>
+    <string name="play">Play</string>
+    <string name="play_time">Play for time</string>
 </resources>

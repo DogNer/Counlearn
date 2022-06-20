@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bd_edit_text.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bg_paly_btn.xml" value="0.3828125" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bg_search.xml" value="0.3828125" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/bg_search_btn.xml" value="0.3828125" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/drawable/btn_black.xml" value="0.3828125" />
@@ -15,13 +16,19 @@
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/activity_whole_world.xml" value="0.18" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_capitel_w_w.xml" value="0.25" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_country.xml" value="0.1" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_country_whole_world.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_flag_w_w.xml" value="0.1" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_profile_menu.xml" value="0.22" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_search_menu.xml" value="0.33" />
-        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_top_list_menu.xml" value="0.25" />
-        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/item_search.xml" value="0.25" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/fragment_top_list_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/item_search.xml" value="0.1" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/layout/item_toplist.xml" value="0.33" />
         <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
+        <entry key="..\:/Users/Dana/AndroidStudioProjects/Counlearn/app/src/main/res/menu/top_navigation_continent.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
